@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KPUApp</string>
+
+    <string name="informasi">Informasi</string>
+    <string name="form_enty">Form Entry</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="keluar">Keluar</string>
+
+    <string name="link_kpu_web">https://www.kpu.go.id</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="informasi_kpu">Informasi KPU</string>
+    <string name="simpan_lokasi">Simpan Lokasi</string>
+    <string name="ambil_gambar">Ambil Gambar</string>
+    <string name="ubah_kamera">Ubah Kamera</string>
+</resources>
